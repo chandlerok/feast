@@ -1,0 +1,19 @@
+sdk/python/feast/feature_store.py
+  s_49b45d6c966312::t_1e590da8a3d06a 104,3168,3179-3181,3229-3233,3235-3276,3278,3391-3397,3400,5183-5208
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "38062f1ef68443d0847f0e2cfeee26dbd5b8d178",
+  "prompts": {},
+  "sessions": {
+    "s_49b45d6c966312": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0352eb06-51b3-47a6-a63a-90c58f4af9c6",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Chandler King <chandler.king@findheadway.com>"
+    }
+  }
+}
