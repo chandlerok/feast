@@ -1,0 +1,46 @@
+sdk/python/feast/protos/feast/core/PrecomputedFeatureVector_pb2.py
+  s_49b45d6c966312::t_778ab8493eb394 19,28-30
+sdk/python/feast/protos/feast/core/FeatureService_pb2.py
+  s_49b45d6c966312::t_ceeeaac745aace 19,34-58
+sdk/python/feast/protos/feast/core/PrecomputedFeatureVector_pb2.pyi
+  s_49b45d6c966312::t_fc8bf781aa1b21 32,45-48,56,59
+sdk/python/feast/protos/feast/core/FeatureService_pb2.pyi
+  s_49b45d6c966312::t_8dacbb25a53c61 69,93-96,108,111
+protos/feast/core/FeatureService.proto
+  s_49b45d6c966312::t_311f018b80e0a9 45-48
+sdk/python/feast/feature_service.py
+  s_49b45d6c966312::t_229dc5f5f29435 65,77,114,367,402-415,426,455,508
+  s_7f855e2b367100::t_5c2e2579d0811e 2
+protos/feast/core/PrecomputedFeatureVector.proto
+  s_49b45d6c966312::t_e2cede11da6249 25-28
+sdk/python/feast/infra/online_stores/online_store.py
+  s_49b45d6c966312::t_43aef05c921cdb 244,531,617,668-677,683-697,699,725-726
+sdk/python/feast/feature_store.py
+  s_49b45d6c966312::t_cf8f53bdd64a56 3349-3351,3355
+sdk/python/tests/unit/test_precomputed_feature_vectors.py
+  s_49b45d6c966312::t_4ec29387f2e7dc 344-399,1191-1233
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "b4bf74236403a300c83a7f5bb354c8f1a0df8bd2",
+  "prompts": {},
+  "sessions": {
+    "s_49b45d6c966312": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0352eb06-51b3-47a6-a63a-90c58f4af9c6",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Chandler King <chandler.king@findheadway.com>"
+    },
+    "s_7f855e2b367100": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0e97d1ac-5235-495a-b40d-66c9f1b29430",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Chandler King <chandler.king@findheadway.com>"
+    }
+  }
+}
