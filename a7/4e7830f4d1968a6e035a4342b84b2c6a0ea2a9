@@ -1,0 +1,23 @@
+sdk/python/feast/infra/registry/snowflake.py
+  s_7f855e2b367100::t_eb02bd29e6664c 1,1371
+sdk/python/feast/infra/registry/sql.py
+  s_7f855e2b367100::t_f65ade83a770e6 1,1574
+sdk/python/tests/unit/infra/registry/test_sql_registry.py
+  s_7f855e2b367100::t_398a464b54c8f2 734-769
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "a74e7830f4d1968a6e035a4342b84b2c6a0ea2a9",
+  "prompts": {},
+  "sessions": {
+    "s_7f855e2b367100": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0e97d1ac-5235-495a-b40d-66c9f1b29430",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Chandler King <chandler.king@findheadway.com>"
+    }
+  }
+}
