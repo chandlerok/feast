@@ -1,0 +1,36 @@
+sdk/python/feast/feature_store.py
+  s_49b45d6c966312::t_1e590da8a3d06a 3187,3198-3200,3248-3252,3254-3295,3297,3410-3416,3419,5215,5229-5248,5250-5251
+sdk/python/tests/unit/test_precomputed_feature_vectors.py
+  s_49b45d6c966312::t_594b07496468fc 1042-1050,1052-1053,1062,1066-1088
+  s_7f855e2b367100::t_c5c4232c1242df 1063-1065
+  h_44feb5354a5842 273-280,289,320-343
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "b9247576e340e8893a44020bf2f1e98ba9ec0dbf",
+  "prompts": {},
+  "humans": {
+    "h_44feb5354a5842": {
+      "author": "Chandler King <chandler.king@findheadway.com>"
+    }
+  },
+  "sessions": {
+    "s_49b45d6c966312": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0352eb06-51b3-47a6-a63a-90c58f4af9c6",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Chandler King <chandler.king@findheadway.com>"
+    },
+    "s_7f855e2b367100": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0e97d1ac-5235-495a-b40d-66c9f1b29430",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Chandler King <chandler.king@findheadway.com>"
+    }
+  }
+}
