@@ -1,0 +1,14 @@
+sdk/python/tests/unit/test_precomputed_feature_vectors.py
+  h_44feb5354a5842 273-280,289,320-343
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "7498c3e0e586ed5517458eff3f755f279984fbfb",
+  "prompts": {},
+  "humans": {
+    "h_44feb5354a5842": {
+      "author": "Chandler King <chandler.king@findheadway.com>"
+    }
+  }
+}
