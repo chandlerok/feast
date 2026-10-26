@@ -1,0 +1,14 @@
+sdk/python/feast/infra/online_stores/online_store.py
+  h_44feb5354a5842 672-679,686-687,689-694
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "e4fa78a42c5803ec97503dcf90e648a16bc5629d",
+  "prompts": {},
+  "humans": {
+    "h_44feb5354a5842": {
+      "author": "Chandler King <chandler.king@findheadway.com>"
+    }
+  }
+}
