@@ -1,0 +1,21 @@
+sdk/python/feast/feature_store.py
+  s_2477cd44edc9cb::t_de6e234b75523a 3369
+sdk/python/feast/infra/registry/proto_registry_utils.py
+  s_2477cd44edc9cb::t_b17822f5e74980 122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "cfd521949fd2113fd0bcbebd99b2cdd93b8c44a4",
+  "prompts": {},
+  "sessions": {
+    "s_2477cd44edc9cb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1bc6a82c-014b-4f68-aaaa-6fe41e3b1cc7",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Chandler King <chandlerok@users.noreply.github.com>"
+    }
+  }
+}
