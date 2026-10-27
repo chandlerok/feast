@@ -3366,7 +3366,7 @@ class FeatureStore:
     def _precompute_for_push(self, feature_view_name: str, df: "pd.DataFrame") -> None:
         """Re-compute pre-computed vectors for entities affected by a push."""
         try:
-            services = self.registry.list_feature_services(self.project)
+            services = self.registry.list_feature_services(self.project, allow_cache=True)
         except Exception:
             return
 

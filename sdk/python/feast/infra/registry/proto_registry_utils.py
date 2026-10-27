@@ -119,6 +119,7 @@ def get_project_metadata(
     return None
 
 
+@registry_proto_cache_name
 def get_feature_service(
     registry_proto: RegistryProto, name: str, project: str
 ) -> FeatureService:
