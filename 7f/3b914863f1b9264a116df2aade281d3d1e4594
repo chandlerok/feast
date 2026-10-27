@@ -1,0 +1,14 @@
+pyproject.toml
+  h_44feb5354a5842 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "7f3b914863f1b9264a116df2aade281d3d1e4594",
+  "prompts": {},
+  "humans": {
+    "h_44feb5354a5842": {
+      "author": "Chandler King <chandler.king@findheadway.com>"
+    }
+  }
+}
