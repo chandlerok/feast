@@ -1,0 +1,14 @@
+sdk/python/feast/feature_store.py
+  h_44feb5354a5842 5186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "000fa5efd71e7ee1fcb9c6546f1afa8f99385520",
+  "prompts": {},
+  "humans": {
+    "h_44feb5354a5842": {
+      "author": "Chandler King <chandler.king@findheadway.com>"
+    }
+  }
+}
