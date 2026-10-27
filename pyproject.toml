@@ -10,8 +10,8 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.10"
 ]
+version = "0.67.0.post1"
 dynamic = [
-    "version",
 ]
 dependencies = [
     "attrs",
